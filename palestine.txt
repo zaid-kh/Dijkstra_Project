@@ -1,0 +1,201 @@
+45 155
+Umm-alRashrash 29.5577 34.9519
+Tubas 32.3211 35.3700
+Tulkarm 32.3194 35.0240
+Nablus 32.2227 35.2621
+Qalqelya 32.1960 34.9815
+Salfit 32.0851 35.1808
+Ramallah 31.9038 35.2034
+Jericho 31.8611 35.4618
+Bethlehem 31.7054 35.2024
+Hebron 31.5326 35.0998
+AbuDis 31.7636 35.2577
+BaniNa'im 31.5149 35.1653
+BaniSuhela 31.3421 34.3253
+BeitHanoun 31.5385 31.5385
+BeitJala 31.7160 35.1871
+BeitLahia 31.5513 34.5092
+BeitSahour 31.6978 35.2285
+BeitUmmer 31.6228 35.1022
+Kafr-Malek 31.9902 35.3102
+Deiral-Balah 31.4171 34.3509
+ad-Dahiriya 31.4096 34.9755
+Dura 31.5051 35.0275
+Gaza 31.5017 34.4668
+Halhul 31.5799 35.0999
+Idhna 31.5573 34.9792
+Jabalia 31.5294 34.4797
+Lod 31.9510 34.8881
+ShfaAmro 32.8058 35.1700
+KhanYunis 31.3462 34.3040
+Qabatiya 32.4096 35.2801
+Rafah 31.2968 34.2435
+Safed 32.9646 35.4960
+as-Samu 31.3986 35.0653
+Surif 31.6496 35.0647
+Ya'bad 32.4468 35.1673
+Yatta 31.4441 35.0901
+az-Zwayda 31.4298 34.3707
+Jaffa 32.0494 34.7584
+Haifa 32.7940 34.9896
+Tel-Aviv 32.0853 34.7818
+Nazareth 32.6996 35.3035
+Acre 32.9331 35.0827
+Ramlah 31.9316 34.8729
+Jenin 32.4646 35.2939
+Jerusalem 33.0 35.2137
+Umm-alRashrash Gaza
+Gaza Umm-alRashrash
+Gaza Hebron
+Hebron Umm-alRashrash
+Umm-alRashrash Hebron
+Jenin Qabatiya
+Jenin Nablus
+Jenin Haifa
+Jenin Tulkarm
+Jenin Safed
+Jenin Nazareth
+Jenin Tubas
+Ya'bad Jenin
+Qabatiya Jenin
+Tubas Nablus
+Tubas Jenin
+Tulkarm Tel-Aviv
+Tulkarm Nablus
+Nablus Ramallah
+Nablus Qalqelya
+Qalqelya Tel-Aviv
+Nablus Salfit
+Nablus Tubas
+Salfit Nablus
+Salfit Ramallah
+Salfit Tel-Aviv
+Qalqelya Salfit
+Ramallah Jerusalem
+Ramallah Jericho
+Kafr-Malek Ramallah
+Jericho Jerusalem
+Jerusalem Bethlehem
+Jerusalem Tel-Aviv
+Bethlehem Hebron
+Hebron Gaza
+Ramallah AbuDis
+Jerusalem AbuDis
+Bethlehem BaniNa'im
+Hebron BaniNa'im
+BaniSuhela Rafah
+BaniSuhela Gaza
+BeitHanoun Gaza
+Bethlehem BeitHanoun
+Hebron BeitHanoun
+Jerusalem BeitJala
+Bethlehem BeitJala
+BeitLahia Gaza
+Hebron BeitLahia
+BeitLahia Jabalia
+BeitLahia Tel-Aviv
+Jerusalem BeitSahour
+Bethlehem BeitSahour
+Bethlehem BeitUmmer
+Hebron BeitUmmer
+Nablus Kafr-Malek
+Ramallah Kafr-Malek
+Jericho Kafr-Malek
+Deiral-Balah Gaza
+Deiral-Balah Rafah
+ad-Dahiriya Gaza
+Hebron ad-Dahiriya
+Hebron Dura
+ad-Dahiriya Dura
+Gaza Acre
+Hebron Halhul
+Bethlehem Halhul
+Hebron Idhna
+Gaza Idhna
+Gaza Jabalia
+Jabalia Rafah
+Lod Tel-Aviv
+Jerusalem Lod
+AbuDis Jerusalem
+AbuDis Ramallah
+Ramallah Lod
+ShfaAmro Haifa
+ShfaAmro Nazareth
+ShfaAmro Acre
+Acre Haifa
+Acre ShfaAmro
+ShfaAmro Safed
+Gaza KhanYunis
+Ramallah Salfit
+Salfit Nablus
+Nablus Jenin
+BeitSahour Jerusalem
+BeitSahour Bethlehem
+Nablus Salfit
+Jenin Nazareth
+Nazareth Safed
+KhanYunis Rafah
+Nablus Qabatiya
+Qabatiya Haifa
+Safed Acre
+Safed Nazareth
+Nazareth Jenin
+Nazareth Haifa
+Hebron as-Samu
+Gaza as-Samu
+Hebron Surif
+Gaza Surif
+Surif Tel-Aviv
+Jerusalem Surif
+Nablus Ya'bad
+Jenin Ya'bad
+Ya'bad Nazareth
+Ya'bad Haifa
+Hebron Yatta
+Gaza Yatta
+Gaza az-Zwayda
+Rafah az-Zwayda
+Jaffa Tel-Aviv
+Gaza Jaffa
+Jaffa Haifa
+Haifa Jaffa
+Jaffa Ramlah
+Ramlah Jerusalem
+Surif Bethlehem
+Gaza Jerusalem
+Jerusalem Ramallah
+Jerusalem Bethlehem
+Haifa Nazareth
+Haifa Acre
+Hebron Bethlehem
+Surif Hebron
+Halhul Hebron
+as-Samu Hebron
+Yatta Hebron
+Idhna Hebron
+Dura Hebron
+BeitUmmer Hebron
+BaniNa'im Hebron
+Hebron BaniNa'im
+ad-Dahiriya Hebron
+Bethlehem Jerusalem
+Qalqelya Tulkarm
+Tulkarm Qalqelya
+Qalqelya Jenin
+Tulkarm Jenin
+Nablus Tulkarm
+Qalqelya Nablus
+Tulkarm Nablus
+Nazareth Acre
+Nazareth ShfaAmro
+Tel-Aviv Ramlah
+Jerusalem Ramlah
+BeitJala Bethlehem
+Jerusalem Ramlah
+Lod Ramlah
+Qalqelya Ramallah
+Ramlah Lod
+Rafah Gaza
+Gaza Ramlah
+Jabalia Gaza
+KhanYunis Gaza

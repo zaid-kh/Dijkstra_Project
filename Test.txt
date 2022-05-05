@@ -1,0 +1,44 @@
+20 23
+Jerusalem 31.762538 35.243531 
+Hebron 31.532569 35.099826 
+Haifa 32.794046 34.989571
+Jaffa 32.049357 34.758355
+Gaza 31.354676 34.308826
+Jericho 31.859871 35.457701
+Jineen 32.464635 35.293859
+Tulkarm 32.319405 35.023986
+Nablus 32.222668 35.262146
+Beersheba 31.252973 34.791462
+Ramallah 31.903764 35.203418
+Bethlehem 31.705382 35.202443
+Ramla 31.931566 34.872938
+Safad 32.964648 35.495997 
+Lod 31.951014 34.888075
+Tiberias 32.795859 35.530973
+Nazareth 32.699635 35.303546
+Umm-alfahem 32.517127 35.148529
+Qabatyia 32.409583 35.280093
+Acre 32.932789 35.082187
+Jerusalem Nablus 
+Jerusalem Tulkarm 
+Jerusalem Haifa 
+Jerusalem Jaffa 
+Jerusalem Gaza
+Gaza Jericho 
+Gaza Hebron 
+Jericho Hebron
+Jerusalem Ramallah
+Jerusalem Hebron 
+Gaza Ramallah 
+Gaza Bethlehem 
+Tulkarm Nablus 
+Tulkarm Hebron 
+Nablus Hebron
+Jerusalem Bethlehem
+Jerusalem Lod
+Jerusalem Ramla 
+Jerusalem Safad 
+Ramla Lod 
+Jerusalem Beersheba 
+Jerusalem Tiberias 
+Hebron Gaza

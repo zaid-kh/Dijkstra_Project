@@ -1,0 +1,160 @@
+49 109
+Jenin;;32.4646;;35.2939
+Tubas;;32.3211;;35.3700
+Tulkarem;;32.3194;;35.0240
+Nables;;32.2227;;35.2621
+Qalqelya;;32.1960;;34.9815
+Salfit;;32.0851;;35.1808
+Ramallah;;31.9038;;35.2034
+jericho;;31.8611;;35.4618
+Jerusalem;;31.7683;;35.2137
+bethlehem;;31.7054;;35.2024
+Hebron;;31.5326;;35.0998
+Absan al_Kabira;;31.3231;;34.3440
+Abu Dis;;31.7636;;35.2577
+Bani Na'im;;31.5149;;35.1653
+Bani Suhela;;31.3421;;34.3253
+Beit Hanoun;;31.5385;;31.5385
+Beit Jala;;31.7160;;35.1871
+Beit Lahia;;31.5513;;34.5092
+Beitunia;;31.8893;;35.1698
+Beit Sahour;;31.6978;;35.2285
+Beit Ummer;;31.6228;;35.1022
+kufermalek;;31.9902;;35.3102
+al-Bireh;;31.9126;;35.2217
+Deir al-Balah;;31.4171;;34.3509
+ad-Dahiriya;;31.4096;;34.9755
+Dura;;31.5051;;35.0275
+Gaza;;31.5017;;34.4668
+Halhul;;31.5799;;35.0999
+Idhna;;31.5573;;34.9792
+Jabalia;;31.5294;;34.4797
+al Led;;31.9510;;34.8881
+shfa amro;;32.8058;;35.1700
+Khan Yunis;;31.3462;;34.3040
+Qabatiya;;32.4096;;35.2801
+Rafah;;31.2968;;34.2435
+Safed;;32.9646;;35.4960
+as-Samu;;31.3986;;35.0653
+Surif;;31.6496;;35.0647
+Ya'bad;;32.4468;;35.1673
+al-Yamun;;32.4867;;35.2336
+Yatta;;31.4441;;35.0901
+az-Zwayda;;31.4298;;34.3707
+yafa;;32.0494;;34.7584
+hifa;;32.7940;;34.9896
+tel al-Rabee;;32.0853;;34.7818
+Al Nassrah;;32.6996;;35.3035
+Acre;;32.9331;;35.0827
+Ramlah;;31.9316;;34.8729
+um Alrshrash;;29.5577;;34.9519
+Jenin;;Qabatiya
+Jenin;;Nables
+Jenin;;hifa
+Jenin;;Tulkarem
+Jenin;;Safed
+Jenin;;Al Nassrah
+Jenin;;Tubas
+Tubas;;Nables
+Tulkarem;;tel al-Rabee
+Tulkarem;;Nables
+Nables;;Ramallah
+Nables;;Qalqelya
+Qalqelya;;tel al-Rabee
+Qalqelya;;Tulkarem
+Tulkarem;;Qalqelya
+Nables;;Salfit
+Salfit;;Ramallah
+Salfit;;tel al-Rabee
+Qalqelya;;Salfit
+Ramallah;;Jerusalem
+Ramallah;;jericho
+jericho;;Jerusalem
+Jerusalem;;bethlehem
+Jerusalem;;tel al-Rabee
+bethlehem;;Hebron
+Hebron;;Gaza
+Absan al_Kabira;;Gaza
+Absan al_Kabira;;Rafah
+Absan al_Kabira;;Jabalia
+Ramallah;;Abu Dis
+Jerusalem;;Abu Dis
+bethlehem;;Bani Na'im
+Hebron;;Bani Na'im
+Absan al_Kabira;;Bani Suhela
+Bani Suhela;;Rafah
+Bani Suhela;;Gaza
+Beit Hanoun;;Gaza
+bethlehem;;Beit Hanoun
+Hebron;;Beit Hanoun
+Jerusalem;;Beit Jala
+bethlehem;;Beit Jala
+Beit Lahia;;Gaza
+Hebron;;Beit Lahia
+Beit Lahia;;Jabalia
+Beit Lahia;;tel al-Rabee
+Ramallah;;Beitunia
+Jerusalem;;Beitunia
+Beitunia;;tel al-Rabee
+Jerusalem;;Beit Sahour
+bethlehem;;Beit Sahour
+bethlehem;;Beit Ummer
+Hebron;;Beit Ummer
+Nables;;kufermalek
+Ramallah;;kufermalek
+jericho;;kufermalek
+Ramallah;;al-Bireh
+kufermalek;;al-Bireh
+Deir al-Balah;;Gaza
+Absan al_Kabira;;Deir al-Balah
+Deir al-Balah;;Rafah
+ad-Dahiriya;;Gaza
+Hebron;;ad-Dahiriya
+ad-Dahiriya;;um Alrshrash
+Hebron;;Dura
+ad-Dahiriya;;Dura
+Gaza;;Acre
+Hebron;;Halhul
+bethlehem;;Halhul
+Hebron;;Idhna
+Gaza;;Idhna
+Gaza;;Jabalia
+Jabalia;;Rafah
+al Led;;tel al-Rabee
+Jerusalem;;al Led
+Ramallah;;al Led
+shfa amro;;hifa
+shfa amro;;Al Nassrah
+shfa amro;;Acre
+shfa amro;;Safed
+Gaza;;Khan Yunis
+Absan al_Kabira;;Khan Yunis
+Khan Yunis;;Rafah
+Nables;;Qabatiya
+Qabatiya;;hifa
+Safed;;Acre
+Safed;;Al Nassrah
+Hebron;;as-Samu
+Gaza;;as-Samu
+Hebron;;Surif
+Gaza;;Surif
+Surif;;tel al-Rabee
+Jerusalem;;Surif
+Nables;;Ya'bad
+Jenin;;Ya'bad
+Ya'bad;;Al Nassrah
+Ya'bad;;hifa
+Jenin;;al-Yamun
+al-Yamun;;Al Nassrah
+al-Yamun;;hifa
+Hebron;;Yatta
+Gaza;;Yatta
+Gaza;;az-Zwayda
+Rafah;;az-Zwayda
+yafa;;tel al-Rabee
+hifa;;Al Nassrah
+hifa;;Acre
+Al Nassrah;;Acre
+tel al-Rabee;;Ramlah
+Jerusalem;;Ramlah
+Gaza;;Ramlah
